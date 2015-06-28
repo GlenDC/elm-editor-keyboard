@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "summary": "Adding keyboard support with browser default shortcuts disabled.",
+    "repository": "https://github.com/GlenDC/elm-editor-keyboard.git",
+    "license": "MIT",
+    "source-directories": [
+        "src"
+    ],
+    "exposed-modules": [
+        "EditorKeyboard"
+    ],
+    "native-modules": true,
+    "dependencies": {
+        "elm-lang/core": "2.0.0 <= v < 3.0.0"
+    },
+    "elm-version": "0.15.0 <= v < 0.16.0"
+}
